@@ -8,7 +8,18 @@
 
     </head>
     <VitePwaManifest/>
-    <Menu/>
+
+    <body>
+      <Contador/>
+      <br>
+      <Count/>
+
+
+    </body>
+    <footer>
+      <Menu></Menu>
+    </footer>
+    
 
   </div>
 </template>
